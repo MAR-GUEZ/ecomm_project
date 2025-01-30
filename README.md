@@ -1,1 +1,1 @@
-# coding-project-template
+# React e-commerce front end
